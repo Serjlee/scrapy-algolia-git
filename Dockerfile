@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.11
 
 ENV CFLAGS="-O0" 
 ENV LIBRARY_PATH=/lib:/usr/lib
